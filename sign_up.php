@@ -44,7 +44,7 @@
                     <input type="submit" class="submit" style="background-color: green;" name="submit" >
                 </div>
             </form>
-            <h4 style="font-size: 17px; margin-top: 15px;">If you have already account, then <a href="log_in.php">SIGN_IN</a></h4>
+            <h4 style="font-size: 17px; margin-top: 15px;">If you have already account, then <a href="index.php">SIGN_IN</a></h4>
         </div>
     </div>
 
